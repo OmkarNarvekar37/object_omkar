@@ -22,23 +22,15 @@
 }
 
 .parallax-box  :nth-child(1){
-    background-image: url(../images/nike.jpg) no-repeat center center fixed;
-   -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
+    background-image: url(../images/nike.jpg);
   }
 .parallax-box  :nth-child(2){
     background-image: url(../images/pic2.gif);
-    background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
+
   }
 
   .parallax-box :nth-child(3){
       background-image: url(../images/pic3.jpg);
-      background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
+
    
   }
