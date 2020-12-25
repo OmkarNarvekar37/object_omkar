@@ -120,7 +120,7 @@ body{
   background-clip: initial;
   background-size: cover;
   background-repeat:no-repeat;
-  background-position:100% 0;
+  background-position:100%;
   position:relative;
   min-height:1080px;
 }
