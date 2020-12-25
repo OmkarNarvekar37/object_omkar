@@ -23,6 +23,13 @@
 
 .parallax-box  :nth-child(1){
     background-image: url(../images/nike.jpg);
+     position: fixed; 
+  top: 0; 
+  left: 0; 
+
+  /* Preserve aspet ratio */
+  min-width: 100%;
+  min-height: 100%;
   }
 .parallax-box  :nth-child(2){
     background-image: url(../images/pic2.gif);
